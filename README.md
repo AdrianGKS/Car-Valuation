@@ -43,7 +43,7 @@ IDE com suporte para linguagem Java (ex. Intelijj IDEA)
 Git/GitHub
 ```
 
-## 🔧 Instalação
+## Instalação
 
 Para fazer a instalação do ambiente de desenvolvimento em execução você deverá:
 ```
