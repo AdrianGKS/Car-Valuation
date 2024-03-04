@@ -50,7 +50,7 @@ Para fazer a instalação do ambiente de desenvolvimento em execução você dev
 Instalar o Git
 Baixar o projeto deste repositório ou cloná-lo em seu ambiente local
 Instalar o JDK e setar as variáveis de ambiente
-Instalar a IDE e abrir o projeto
+Instalar a IDE
 Abrir o projeto na sua IDE
 Executar o projeto na IDE
 Testar o código pela linha de comando da IDE
